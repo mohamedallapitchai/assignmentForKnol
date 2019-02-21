@@ -66,10 +66,6 @@ not given then they are treated not existing.
 
 ```
 Mohameds-MBP:assignment-Knol mohamedallapitchai$ sbt run
-[info] Loading project definition from /Users/mohamedallapitchai/2019/scalaconcepts/assignment-Knol/project
-[info] Loading settings for project assignment-knol from build.sbt ...
-[info] Set current project to assignment (in build file:/Users/mohamedallapitchai/2019/scalaconcepts/assignment-Knol/)
-[info] Packaging /Users/mohamedallapitchai/2019/scalaconcepts/assignment-Knol/target/scala-2.12/assignment_2.12-0.1.jar ...
 [info] Done packaging.
 [info] Running TerminalApp 
 Assignment running
