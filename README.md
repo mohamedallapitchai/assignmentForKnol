@@ -43,7 +43,7 @@ There are two phases in providing the input.
 
 You will be instructed by the program to provide input to construct the price list first and then scan the items.
 
-######Input format for product list creation:
+#####Input format for product list creation:
 `ProductName:[A-D],UnitPrice:Double,VolumeQty:Int,VolumePrice:Double`
 
 **Example**
